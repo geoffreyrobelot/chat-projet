@@ -20,6 +20,9 @@
     "build": "cd chat-client && npm run build",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",

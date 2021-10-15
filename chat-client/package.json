@@ -15,9 +15,6 @@
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
-    "client": "cd chat-client && npm start",
-    "install chat-client": "cd chat-client && npm install",
-    "build": "cd chat-client && npm run build",
     "eject": "react-scripts eject"
   },
   "engines": {
